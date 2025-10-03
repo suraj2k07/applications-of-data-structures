@@ -1,0 +1,7 @@
+{ 
+    "problem": "dictionary",
+    "makefile.configureOnOpen": false,
+    "files.associations": {
+        "numbers": "cpp"
+    }
+}
